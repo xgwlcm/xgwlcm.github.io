@@ -172,6 +172,51 @@ body {
   margin-left: 4px;
 }
 
+
+
+.xgg2 {
+  box-sizing: border-box;
+  display: flex;
+  padding: 0px 16px;
+  background: linear-gradient(123.05deg, #4DB6AC 30.29%, #26A69A 99.09%);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 31px;
+  font-size: 12px;
+  line-height: 28px;
+  letter-spacing: 0.07em;
+  color: #FFF;
+}
+
+
+.xgg {
+  box-sizing: border-box;
+  display: flex;
+  padding: 0px 16px;
+  background: linear-gradient(123.05deg, #F44336 30.29%, #EF5350 99.09%);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 31px;
+  font-size: 12px;
+  line-height: 28px;
+  letter-spacing: 0.07em;
+  color: #FFF;
+}
+.btn {
+  box-sizing: border-box;
+  display: flex;
+  padding: 0px 16px;
+  background: linear-gradient(123.05deg, #0170FF 30.29%, #01A4FF 99.09%);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 31px;
+  font-size: 12px;
+  line-height: 28px;
+  letter-spacing: 0.07em;
+  color: #FFF;
+}
+
+
+
+
+
 .p2 {
   font-size: 12px;
   line-height: 16px;
@@ -232,18 +277,6 @@ a:hover {
   gap: 8px;
 }
 
-.btn {
-  box-sizing: border-box;
-  display: flex;
-  padding: 0px 16px;
-  background: linear-gradient(123.05deg, #0170FF 30.29%, #01A4FF 99.09%);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 31px;
-  font-size: 12px;
-  line-height: 28px;
-  letter-spacing: 0.07em;
-  color: #FFF;
-}
 .ercode {
   height: 130px;
   bottom: 0px;
